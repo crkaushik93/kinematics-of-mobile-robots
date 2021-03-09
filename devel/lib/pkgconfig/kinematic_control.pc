@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel
+
+Name: kinematic_control
+Description: Description of kinematic_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
